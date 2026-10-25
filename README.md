@@ -239,6 +239,7 @@ Tools to test LLM applications themselves (security, robustness, hallucination).
 
 - [Garak](https://github.com/NVIDIA/garak) 🆓 - LLM vulnerability scanner from NVIDIA.
 - [DeepTeam](https://github.com/confident-ai/deepteam) 🆓 - LLM red teaming for prompt injection, jailbreaks, and data leaks.
+- [llm-redteam-banking-checklist](https://github.com/ErcinDedeoglu/llm-redteam-banking-checklist) 🆓 - Release gate for LLM red-team results in banking: severity scoring, five go/no-go gates, pytest and GitHub Actions checks that fail when a gate is red.
 - [llm-security-scanner](https://github.com/tugkanboz/llm-security-scanner) 🆓 - Red-team toolkit with OWASP LLM Top 10 alignment and Turkish payload library.
 - [Giskard](https://github.com/Giskard-AI/giskard) 🆓💰 - Testing framework for LLMs and ML models.
 - [Guardrails AI](https://github.com/guardrails-ai/guardrails) 🆓💰 - Python framework for validating and structuring LLM outputs using composable validators covering toxicity, PII leakage, and hallucination detection.
